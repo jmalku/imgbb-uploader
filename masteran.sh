@@ -49,7 +49,7 @@ case $choice in
     4)
         # Windows 10
         img_file="windows10.img"
-        iso_link="https://download946.mediafire.com/7jgxruyvao0gSGN-Z0-lNoRgY1awOaE4V8l4JU3U1AGp8s8l3DzzMAU0IeLXnfMVkM_NNXwf9gqCsUqgF9n_zwMJfu1u4YJXtqx30id9XootC6mhFPSHNR3Ikm5E_QmS5rs25I_IQWE5ifJRL0E9w5xJbzzUIxaRiIJqBY1UIIs-/kkibe7th3ew3pzl/W10.iso"
+        iso_link="http://152.42.180.235/W10.iso"
         iso_file="windows10.iso"
         ;;
     5)
